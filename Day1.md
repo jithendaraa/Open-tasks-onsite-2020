@@ -22,4 +22,14 @@
 
 4. **Part 4** Same as "Part 3" above but don't use a DL framework for step 4; use NumPy!
 
-   
+### Tasks (Domain: Game Dev)
+
+1. Make a 3D game similar to Subway surfers, to clarify, the player can - Jump, Move left or right, and bend under obstacles of various shapes. The task of the player is to reach as far as he can without hitting the obstacle and collect as many gold coins on the way as possible (the game can be very basic in design)
+
+#### Features
+
+1. The player be able to jump, or bend down or move left or right in order to avoid obstacles (obstacles of different shapes).
+
+2. There must be a scoreboard at the end of the game, which shows the top 5 scores on the same system.
+
+Feel free to be creative and add any new features you can come up with.
