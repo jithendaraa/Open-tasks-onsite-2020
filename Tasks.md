@@ -1,8 +1,6 @@
-## Day 1
+## Tasks (Domain: ML)
 
-### Tasks (Domain: ML)
-
-#### Task 1
+### Task 1 (Day 1)
 
 1. **Part 1:** Create your own synthetic dataset from a nonlinear univariate function <img src="https://render.githubusercontent.com/render/math?math=y = f(x)"> and fit a regression model to this using a neural network.
 
@@ -22,7 +20,14 @@
 
 4. **Part 4** Same as "Part 3" above but don't use a DL framework for step 4; use NumPy!
 
-### Tasks (Domain: Game Dev)
+### Task 2 (Day 2)
+
+1. Implement KNN from scratch in Python. Plot the points on a graph and colour the region accordingly. Your Jupyter notebook (or python script) should use arguments that take in ```metric_type='L1' or 'L2'```, ```Num_neighbors```(K; should work for at least any number between 1-5), ```num_classes```(2-5), ```num_points```(10-50)
+2. Being able to drag the points on the graph while simultaneously running KNN is a big plus.
+3. <a href="http://vision.stanford.edu/teaching/cs231n-demos/knn/">Here's a web demo of what we expect you to implement</a>. You are free to use any plotting/animation libraries to make your implementation more interactive. While it does not need to be as interactive as the web demo, more interactive your demo is, the better :)
+
+
+## Tasks (Domain: Game Dev)
 
 1. Make a 3D game similar to Subway surfers, to clarify, the player can - Jump, Move left or right, and bend under obstacles of various shapes. The task of the player is to reach as far as he can without hitting the obstacle and collect as many gold coins on the way as possible (the game can be very basic in design)
 
